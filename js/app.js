@@ -64,4 +64,4 @@ const galleryItems = [
   },
 ];
 
-export default galleryItems;
+export { galleryItems };

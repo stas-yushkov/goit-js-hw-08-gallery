@@ -1,4 +1,5 @@
-import galleryItems from './js/app';
+import { galleryItems } from './app.js';
+// console.dir(data.galleryItems);
 
 const galleryRef = document.querySelector('.js-gallery');
 const lightboxRef = document.querySelector('.js-lightbox');
